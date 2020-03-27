@@ -1,6 +1,6 @@
-# Tiny Machine Language Machine
+# Tiny Machine Language Interpreter (Assembler Emulator)
 CS321 Assignment 2: Create a Tiny Machine Lanaguage Interpreter<br>
-Tiny Machine Language is meant to mimick an arbritrary Assembly Language
+Tiny Machine Language is meant to mimic an arbritrary Assembly Language
 ## Default Run 
 Reads data from a from a source file in the parent directory called data.txt<br>
 Creates an Tiny Machine Language Interpreter<br>
