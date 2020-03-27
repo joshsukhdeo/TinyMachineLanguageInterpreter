@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="build_dependecies/guava-20.0.jar" sourcepath="build_dependecies/guava-20.0-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="https://google.github.io/guava/releases/20.0/api/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="build_dependecies/javassist-3.21.0-GA.jar"/>
+	<classpathentry kind="lib" path="build_dependecies/reflections-0.9.11.jar" sourcepath="build_dependecies/reflections-0.9.11-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://ronmamo.github.io/reflections/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
